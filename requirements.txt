@@ -1,6 +1,5 @@
 flask
-tensorflow-cpu
+python-3.10.13
 opencv-python-headless
 numpy
 gunicorn
-matplotlib
