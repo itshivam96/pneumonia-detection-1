@@ -1,5 +1,5 @@
 flask
-python-3.10.13
+tensorflow-cpu
 opencv-python-headless
 numpy
 gunicorn
